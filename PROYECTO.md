@@ -1,5 +1,8 @@
-# Proyecto de equipo 
+# Proyecto de equipo
 
-Nombre del proyecto: por definir
+Nombre del proyecto: Proyecto Optativa Alejandro
 
 ## Miembros
+
+Alejandro Fernández Torres
+
